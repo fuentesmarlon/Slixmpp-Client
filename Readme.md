@@ -5,8 +5,11 @@ Server Client using XLMPP and Slixmpp as a gateway to the functionalities.
 ## Installation
 
 1. Clone Repository
-2. Run MAIN.PY
-3. Follow the steps
+2. Install Requirements
+3. Run main.py
+4. Enjoy
+
+We recommend you use a virtual enviroment to manage your libraries in order to have the best results.
 
 ## Libraries Needed.
 
